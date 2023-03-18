@@ -4,13 +4,9 @@
   
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1KarinaV&theme=solarized_dark)  
-    
-- 🌱 I’m currently learning Python, JavaScript, C 
-- 📫 How to reach me: karina.vladykina@inbox.ru    
-- 🌍 I speak Russian (native), English (C2)    
+
          
-   
-     
+       
 <h3> Languages: </h3>   
   
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
