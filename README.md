@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Karina</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="32"/></h1>
-<h3 align="center">Third year Software Engineering and Computer Systems student from ITMO University</h3>  
-  
+
   
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=1KarinaV&theme=solarized_dark)  
 
